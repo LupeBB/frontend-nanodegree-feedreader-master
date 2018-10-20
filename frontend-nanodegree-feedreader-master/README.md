@@ -10,5 +10,5 @@ Browser testing project using [Jasmine](http://jasmine.github.io/).
 
 ## Extra information:
 * You can follow this link to preview testing https://lupebb.github.io/frontend-nanodegree-feedreader-master/
-* This project was assigned by Udacity for the Front-End Nanodegree
+* This project was assigned by Udacity for the Front-End Nanodegree.
 * Course information https://classroom.udacity.com/courses/ud549-nd 
